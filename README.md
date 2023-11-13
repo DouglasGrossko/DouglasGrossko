@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Douglas Grossko
-- 👀 Eu sou professor de Pesamento computacional
+- 👀 Eu sou professor de Ciências e Pesamento computacional
 
 
 <!---
