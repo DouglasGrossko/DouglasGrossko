@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Douglas Grossko
-- 👀 Eu sou professor de Ciências e Pesamento computacional
+- 👀 Eu sou professor das disciplinas de Ciências e também Pensamento computacional
 
 
 <!---
