@@ -1,5 +1,10 @@
+### Bem vindo ao mu perfil!
+
+
 - 👋 Olá, meu nome é Douglas Grossko
 - 👀 Eu sou professor das disciplinas de Ciências e também Pensamento computacional
+
+![](https://media.tenor.com/svlEgR8JDGoAAAAC/einstein-math.gif)
 
 
 <!---
